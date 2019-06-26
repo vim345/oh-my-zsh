@@ -87,6 +87,8 @@ plugins=(
     zsh-syntax-highlighting
     timer
     zsh_reload
+    zsh-autosuggestions
+    zsh-syntax-highlighting
 )
 
 source $ZSH/oh-my-zsh.sh
