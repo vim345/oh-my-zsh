@@ -69,13 +69,13 @@ ZSH_THEME="vim345"
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(
-    vim345
     colored-man-pages
     colorize
     django
     docker
     docker-compose
     golang
+    mhmdzsh
     timer
     zsh_reload
     zsh-autosuggestions
