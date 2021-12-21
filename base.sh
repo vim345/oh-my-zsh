@@ -66,13 +66,21 @@ ZSH_THEME="mhmd"
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(
+    archlinux
+    aws
     colored-man-pages
     colorize
     django
     docker
     docker-compose
     golang
+    gradle
+    kubectl
+    man
     mhmdzsh
+    minikube
+    nmap
+    postgres
     timer
     zsh_reload
     zsh-autosuggestions
