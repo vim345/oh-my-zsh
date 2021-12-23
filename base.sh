@@ -70,7 +70,6 @@ plugins=(
     aws
     colored-man-pages
     colorize
-    django
     docker
     docker-compose
     golang
@@ -82,7 +81,6 @@ plugins=(
     nmap
     postgres
     timer
-    zsh_reload
     zsh-autosuggestions
     zsh-syntax-highlighting
     timer
